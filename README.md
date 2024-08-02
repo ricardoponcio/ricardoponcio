@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ricardo.poncio@outlook.com.br**
 
-- 📄 Know about my experiences [ricardo.poncio.dev](ricardo.poncio.dev)
+- 📄 Know about my experiences [ricardo.poncio.dev](https://ricardo.poncio.dev)
 
 - ⚡ Fun fact **Good at using 2 hours to automate any 20 minutes operation with a bash script**
 
