@@ -32,7 +32,7 @@
 
 ### 📫 How to reach me
 
-- 🙋‍♂️ [Website with form](htttps://ricardo.poncio.dev)
+- 🙋‍♂️ [Website with form](https://ricardo.poncio.dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ricardoponcio/)
 - 🐦 [Twitter](https://twitter.com/ricardoponcio)
 - 📬 Email: `ricardo@poncio.dev`
