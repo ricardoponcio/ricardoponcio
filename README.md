@@ -17,8 +17,11 @@
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,react,html,css,sass,git,github,vscode" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,jest,js,ts,nodejs,react,html,css,sass,bash" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,latex,docker,aws,linux,postgres" />
+  </a>
 </p>
 
 ---
