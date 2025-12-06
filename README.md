@@ -37,6 +37,6 @@
 
 - 🙋‍♂️ [Website with form](https://ricardo.poncio.dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ricardoponcio/)
-- 📬 Email: `ricardo@poncio.dev`
+- 📬 Email: `ricardo.poncio@outlook.com.br`
 
 ---
