@@ -36,7 +36,7 @@
 ### 📫 How to reach me
 
 - 🙋‍♂️ [Website with form](https://ricardo.poncio.dev)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ricardoponcio/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ricardo-poncio/)
 - 📬 Email: `ricardo.poncio@outlook.com.br`
 
 ---
